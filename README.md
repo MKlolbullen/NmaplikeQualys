@@ -34,8 +34,7 @@ PyQt5
 
 You can install the required dependencies by running the following command:
 
-`bash
-pip install python-nmap networkx matplotlib pyqt5`
+`pip install python-nmap networkx matplotlib pyqt5`
 
 Additionally, Nmap must be installed on your system. You can download and install Nmap from here.
 
